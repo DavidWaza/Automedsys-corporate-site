@@ -1,0 +1,25 @@
+.section {
+    background-color: #fff;
+    height: 50vh;
+}
+.title {
+    color: #1A97B0;
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    font-weight: 700;
+    /* font-size: 30px; */
+}
+.content {
+    display: flex;
+    justify-content: center;
+    color:#000;
+    letter-spacing: 1.5px;
+    /* width: 950px; */
+    margin: 0 auto;
+    margin-top:20px;
+    line-height: 29px;
+}
+.text {
+    width: 950px;
+}

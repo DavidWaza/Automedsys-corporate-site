@@ -1,0 +1,63 @@
+.body {
+    background-color: #f4f4f4;
+    height: 70vh;
+    position: relative;
+}
+.ovalImg {
+position: absolute;
+display: flex;
+height: 310px;
+width: 310px;
+justify-content: center;
+margin-top: 10vh;
+}
+.ovalImgTwo {
+    position: absolute;
+    display: flex;
+    left: 70px;
+    height: 320px;
+    width: 320px;
+    justify-content: center;
+    top: 10vh;
+    }
+    .ellipse {
+        position: absolute;
+        top:10vh ;
+        height: 300px;
+        width: 300px;
+    }
+    .ellipseTwo {
+        position: absolute;
+        top:11.5vh ;
+        left: 92px;
+        height: 280px;
+        width: 280px;
+    }
+    .ellipseThree {
+        position: absolute;
+        top:13.5vh ;
+        left: 108px;
+        height: 250px;
+        width: 250px;
+    }
+    .phone {
+        position: absolute;
+        height: 220px;
+        width: 220px;
+        top: 20px;
+        left: 120px;
+    }
+    .headerText {
+        color:#1A97B0;
+        margin-top: 15vh;
+    }
+    .text {
+        color: #5a5151;
+        width: 400px;
+    }
+    .display {
+        display: flex;
+    }
+    .checkedText {
+        font-weight: 700;
+    }

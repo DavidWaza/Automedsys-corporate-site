@@ -1,0 +1,22 @@
+.body {
+    height: 70vh;
+    width: 100%;
+    background-color: black;
+    background-image: url('../images/hero.png');
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.bannerText {
+    color: #fff;
+    font-weight: normal;
+    position: absolute;
+    top: 20vh;
+    letter-spacing: 1px;
+}
+.link {
+    padding-bottom: 40px !important;
+    color: #27D9FD !important;
+
+    /* color: aqua; */
+}
